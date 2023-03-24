@@ -1,0 +1,95 @@
+@font-face {
+    font-family: nino-mtavruli;
+    src: url(../assets/fonts/bpg_nino_mtavruli_normal.ttf);
+}
+
+body {
+    font-family: 'nino-mtavruli';
+}
+
+.logo {
+    position: absolute;
+    margin-top: 57px;
+    margin-left: 103px;
+    border: 2px solid #0F54EE;
+    box-sizing: border-box;
+    padding-right: 983px;
+}
+
+.mtavari {
+    position: absolute;
+    margin-top: 97px;
+    margin-left: 743px;
+    color: #F90D0D;
+    font-size: 20px;
+}
+
+.siaxleebi {
+    position: absolute;
+    margin-top: 97px;
+    margin-left: 951px;
+    color:#0F54EE;
+    font-size: 20px;
+}
+
+.kontaqti {
+    position: absolute;
+    margin-top: 97px;
+    margin-left: 1178px;
+    color:#0F54EE;
+    font-size: 20px;
+}
+
+.main-car {
+    position: absolute;
+    margin-top: 256px;
+    margin-left: 103px;
+}
+
+.img-title {
+    position: absolute;
+    font-size: 24px;
+    color: #0F54EE;
+    margin-top: 1008px;
+    margin-left: 103px;
+}
+
+.footer-car1 {
+    position: absolute;
+    margin-top: 1214px;
+    margin-left: 103px;
+    background-color: #D9D9D9;
+    padding-top: 57px;
+    padding-left: 43px;
+    padding-bottom: 58px;
+    padding-right: 281px;
+}
+
+h1 {
+    position: absolute;
+    font-size: 24px;
+    margin-top: 1271px;
+    margin-left: 420px;
+    color: #000000;
+    width: 230px;
+}
+
+.footer-car2 {
+    position: absolute;
+    margin-top: 1214px;
+    margin-left: 709px;
+    background-color: #D9D9D9;
+    padding-top: 57px;
+    padding-left: 43px;
+    padding-bottom: 58px;
+    padding-right: 281px;
+}
+
+h2 {
+    position: absolute;
+    font-size: 24px;
+    margin-top: 1271px;
+    margin-left: 1026px;
+    color: #000000;
+    width: 230px;
+}

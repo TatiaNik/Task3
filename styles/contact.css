@@ -1,0 +1,70 @@
+@font-face {
+    font-family: nino-mtavruli;
+    src: url(../assets/fonts/bpg_nino_mtavruli_normal.ttf);
+}
+
+body {
+    font-family: 'nino-mtavruli';
+}
+
+.logo {
+    position: absolute;
+    margin-top: 57px;
+    margin-left: 103px;
+    border: 2px solid #0F54EE;
+    box-sizing: border-box;
+    padding-right: 983px;
+}
+
+.mtavari {
+    position: absolute;
+    margin-top: 97px;
+    margin-left: 743px;
+    color: #0F54EE;
+    font-size: 20px;
+}
+
+.siaxleebi {
+    position: absolute;
+    margin-top: 97px;
+    margin-left: 951px;
+    color:#0F54EE;
+    font-size: 20px;
+}
+
+.kontaqti {
+    position: absolute;
+    margin-top: 97px;
+    margin-left: 1178px;
+    color: #F90D0D;
+    font-size: 20px;
+}
+
+.contact-container {
+    position: absolute;
+    margin-top: 372px;
+    margin-left: 103px;
+}
+
+.contact-title {
+    color: #0F54EE;
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+
+.contact-item {
+    font-size: 20px;
+    color: #000000;
+    margin-top: 20px;
+    display: block;
+}
+
+iframe {
+    background-color: #D9D9D9;
+    margin-top: 257px;
+    margin-left: 0px;
+    padding-left: 542px;
+    padding-top: 116px;
+    padding-bottom: 133px;
+    padding-right: 87px;
+}
